@@ -1,0 +1,8 @@
+{
+  "name": "Gemini SRT Pro",
+  "description": "Ứng dụng trích xuất và dịch phụ đề SRT chuyên nghiệp sử dụng công nghệ AI của Google Gemini. Hỗ trợ trích xuất từ video và dịch sang tiếng Anh, Trung, Việt.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
